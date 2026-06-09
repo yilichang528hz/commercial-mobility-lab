@@ -1,0 +1,109 @@
+{
+  "sources": [
+    {
+      "sourceId": "source-001",
+      "fileName": "Hotai_Commercial_Vehicle_Product_Planning_Integrated_CN.docx",
+      "type": "docx",
+      "purpose": "primary proposal source",
+      "reliability": "user provided planning document",
+      "chapters": [
+        "ch-01",
+        "ch-02",
+        "ch-03",
+        "ch-04",
+        "ch-05",
+        "ch-06",
+        "ch-07",
+        "ch-08",
+        "ch-09",
+        "ch-10",
+        "ch-11",
+        "ch-12",
+        "ch-13",
+        "ch-14",
+        "ch-15",
+        "ch-16",
+        "ch-17",
+        "ch-18",
+        "ch-19",
+        "ch-21"
+      ],
+      "needsAuthoritySupplement": true
+    },
+    {
+      "sourceId": "source-002",
+      "fileName": "線上企劃書(請上傳)閱讀圖文網站online_proposal_reading_website_master_prompt_phase_00_02_03_05_11_v1_1.txt",
+      "type": "txt",
+      "purpose": "website master prompt and governance rules",
+      "reliability": "user provided build specification",
+      "chapters": [],
+      "needsAuthoritySupplement": false
+    },
+    {
+      "sourceId": "source-003",
+      "fileName": "S01-08_JPG.zip",
+      "type": "zip jpg",
+      "purpose": "uploaded cover illustrations for selected chapters",
+      "reliability": "user provided visual assets",
+      "ocrAssignment": [
+        {
+          "sourceFile": "S07.jpg",
+          "recognizedTitle": "AI Fleet Planning and Smart Product Consultant / AI車隊企劃與智慧產品顧問",
+          "assignedChapter": "ch-03",
+          "assignedImagePath": "images/S03.jpg",
+          "reason": "OCR title keywords match the chapter theme and section scope."
+        },
+        {
+          "sourceFile": "S05.jpg",
+          "recognizedTitle": "Local Revitalization and Rural Tourism Mobility / 地方創生與農村旅遊移動",
+          "assignedChapter": "ch-04",
+          "assignedImagePath": "images/S04.jpg",
+          "reason": "OCR title keywords match the chapter theme and section scope."
+        },
+        {
+          "sourceFile": "S03.jpg",
+          "recognizedTitle": "Agricultural Cold Chain and Health Logistics / 農產冷鏈與健康物流",
+          "assignedChapter": "ch-05",
+          "assignedImagePath": "images/S05.jpg",
+          "reason": "OCR title keywords match the chapter theme and section scope."
+        },
+        {
+          "sourceFile": "S01.jpg",
+          "recognizedTitle": "Long Term Care 3.0 and Senior Friendly Mobility / 長照3.0與銀髮友善移動",
+          "assignedChapter": "ch-08",
+          "assignedImagePath": "images/S08.jpg",
+          "reason": "OCR title keywords match the chapter theme and section scope."
+        },
+        {
+          "sourceFile": "S06.jpg",
+          "recognizedTitle": "Convenience Economy and Door to Door Service Mobility / 懶人經濟與到府服務移動",
+          "assignedChapter": "ch-09",
+          "assignedImagePath": "images/S09.jpg",
+          "reason": "OCR title keywords match the chapter theme and section scope."
+        },
+        {
+          "sourceFile": "S04.jpg",
+          "recognizedTitle": "Low Carbon Operation and TCO Decision Lab / 低碳營運與TCO決策實驗室",
+          "assignedChapter": "ch-10",
+          "assignedImagePath": "images/S10.jpg",
+          "reason": "OCR title keywords match the chapter theme and section scope."
+        },
+        {
+          "sourceFile": "S02.jpg",
+          "recognizedTitle": "Tourism Recovery and Small Group Shuttle Service / 國際觀光復甦與小團接駁",
+          "assignedChapter": "ch-12",
+          "assignedImagePath": "images/S12.jpg",
+          "reason": "OCR title keywords match the chapter theme and section scope."
+        },
+        {
+          "sourceFile": "S08.jpg",
+          "recognizedTitle": "Accessible Wellness Tourism Mobility / 無障礙健康旅遊移動",
+          "assignedChapter": "ch-13",
+          "assignedImagePath": "images/S13.jpg",
+          "reason": "OCR title keywords match the chapter theme and section scope."
+        }
+      ],
+      "needsAuthoritySupplement": false
+    }
+  ]
+}

@@ -1,0 +1,535 @@
+{
+  "chapters": [
+    {
+      "chapterId": "ch-01",
+      "titleZh": "人口結構、消費結構與移動需求的共同轉向",
+      "sections": [
+        {
+          "sectionId": "ch-01-s-01",
+          "titleZh": "台灣超高齡社會的產業含義",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-01-s-02",
+          "titleZh": "工作人口下降對物流、照護與服務業的壓力",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-01-s-03",
+          "titleZh": "國際觀光復甦與區域交通缺口",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-01-s-04",
+          "titleZh": "商用車從場景基礎設施重新定義",
+          "paragraphCount": 2
+        }
+      ]
+    },
+    {
+      "chapterId": "ch-02",
+      "titleZh": "和泰商用車事業的既有基礎與新成長空間",
+      "sections": [
+        {
+          "sectionId": "ch-02-s-01",
+          "titleZh": "HINO、TOYOTA商旅車與商用車產品線定位",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-02-s-02",
+          "titleZh": "市占率、服務據點、品牌信任與售後體系",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-02-s-03",
+          "titleZh": "MaaS、yoxi、和運租車、旅遊服務與點數生態系",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-02-s-04",
+          "titleZh": "從單車銷售到全生命週期營運服務",
+          "paragraphCount": 2
+        }
+      ]
+    },
+    {
+      "chapterId": "ch-03",
+      "titleZh": "AI經濟：智慧車隊與產品企劃資料化",
+      "sections": [
+        {
+          "sectionId": "ch-03-s-01",
+          "titleZh": "AI客製化服務與車隊配置",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-03-s-02",
+          "titleZh": "AI風險管理與駕駛行為分析",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-03-s-03",
+          "titleZh": "AI生產優化與改裝車交付流程",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-03-s-04",
+          "titleZh": "AI教育與商用車產品訓練系統",
+          "paragraphCount": 2
+        }
+      ]
+    },
+    {
+      "chapterId": "ch-04",
+      "titleZh": "農業經濟：農村旅遊、冷鏈物流與地方創生",
+      "sections": [
+        {
+          "sectionId": "ch-04-s-01",
+          "titleZh": "農產品運輸與低溫物流",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-04-s-02",
+          "titleZh": "鄉村旅遊接駁車",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-04-s-03",
+          "titleZh": "全球共享農業與產地體驗",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-04-s-04",
+          "titleZh": "山區、偏鄉、農村場景的車型需求",
+          "paragraphCount": 2
+        }
+      ]
+    },
+    {
+      "chapterId": "ch-05",
+      "titleZh": "健康經濟：醫療、復健、長照與健康物流",
+      "sections": [
+        {
+          "sectionId": "ch-05-s-01",
+          "titleZh": "行動醫療車",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-05-s-02",
+          "titleZh": "長照接送車",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-05-s-03",
+          "titleZh": "藥品、檢體與健康食品冷鏈",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-05-s-04",
+          "titleZh": "銀髮健康旅遊車隊",
+          "paragraphCount": 2
+        }
+      ]
+    },
+    {
+      "chapterId": "ch-06",
+      "titleZh": "悅己經濟：體驗型移動服務與情緒價值",
+      "sections": [
+        {
+          "sectionId": "ch-06-s-01",
+          "titleZh": "小團體旅遊與高品質商旅車",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-06-s-02",
+          "titleZh": "露營、戶外、療癒旅行",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-06-s-03",
+          "titleZh": "寵物友善接駁與家庭休閒車隊",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-06-s-04",
+          "titleZh": "車內空間設計與感官體驗",
+          "paragraphCount": 2
+        }
+      ]
+    },
+    {
+      "chapterId": "ch-07",
+      "titleZh": "單身經濟：外送、即時配送與小型商用車",
+      "sections": [
+        {
+          "sectionId": "ch-07-s-01",
+          "titleZh": "一人戶增加與小包裹物流",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-07-s-02",
+          "titleZh": "都市微型配送",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-07-s-03",
+          "titleZh": "寵物服務車",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-07-s-04",
+          "titleZh": "小型創業者商用車金融方案",
+          "paragraphCount": 2
+        }
+      ]
+    },
+    {
+      "chapterId": "ch-08",
+      "titleZh": "銀髮經濟：照護移動、旅遊接駁與社交陪伴",
+      "sections": [
+        {
+          "sectionId": "ch-08-s-01",
+          "titleZh": "老年護理機構接送車",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-08-s-02",
+          "titleZh": "無障礙旅遊巴士與小巴",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-08-s-03",
+          "titleZh": "社區共乘與日照中心車隊",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-08-s-04",
+          "titleZh": "高齡者信任、安全與舒適性設計",
+          "paragraphCount": 2
+        }
+      ]
+    },
+    {
+      "chapterId": "ch-09",
+      "titleZh": "懶人經濟：便利服務與一站式到府車隊",
+      "sections": [
+        {
+          "sectionId": "ch-09-s-01",
+          "titleZh": "到府維修、到府清潔、到府保健",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-09-s-02",
+          "titleZh": "便利物流與服務型商用車",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-09-s-03",
+          "titleZh": "智慧排程與車隊管理",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-09-s-04",
+          "titleZh": "商用車作為移動服務平台",
+          "paragraphCount": 2
+        }
+      ]
+    },
+    {
+      "chapterId": "ch-10",
+      "titleZh": "低配經濟：性價比、耐用性與低總持有成本",
+      "sections": [
+        {
+          "sectionId": "ch-10-s-01",
+          "titleZh": "中小企業成本壓力",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-10-s-02",
+          "titleZh": "汰舊換新與低月付方案",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-10-s-03",
+          "titleZh": "二手商用車與認證保固",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-10-s-04",
+          "titleZh": "維修便利性與殘值管理",
+          "paragraphCount": 2
+        }
+      ]
+    },
+    {
+      "chapterId": "ch-11",
+      "titleZh": "賣萌經濟與臨期經濟：細分市場的非典型商用車需求",
+      "sections": [
+        {
+          "sectionId": "ch-11-s-01",
+          "titleZh": "角色IP餐車、動漫接駁車與主題巴士",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-11-s-02",
+          "titleZh": "臨期品物流與折扣通路配送",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-11-s-03",
+          "titleZh": "夜市、快閃、展會與移動零售",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-11-s-04",
+          "titleZh": "外觀設計與品牌聯名企劃",
+          "paragraphCount": 2
+        }
+      ]
+    },
+    {
+      "chapterId": "ch-12",
+      "titleZh": "國際觀光客來台結構與交通痛點",
+      "sections": [
+        {
+          "sectionId": "ch-12-s-01",
+          "titleZh": "來台觀光復甦趨勢",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-12-s-02",
+          "titleZh": "機場、高鐵、飯店、景區之最後一哩",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-12-s-03",
+          "titleZh": "日本、港澳、東南亞旅客的移動偏好",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-12-s-04",
+          "titleZh": "團客、小團客、自由行與高端旅遊需求",
+          "paragraphCount": 2
+        }
+      ]
+    },
+    {
+      "chapterId": "ch-13",
+      "titleZh": "銀髮國際旅遊與無障礙移動商機",
+      "sections": [
+        {
+          "sectionId": "ch-13-s-01",
+          "titleZh": "日本、韓國、新加坡高齡旅客",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-13-s-02",
+          "titleZh": "醫療觀光與健檢旅遊",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-13-s-03",
+          "titleZh": "溫泉、山林、宗教、文化旅遊接駁",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-13-s-04",
+          "titleZh": "無障礙車型與多語服務",
+          "paragraphCount": 2
+        }
+      ]
+    },
+    {
+      "chapterId": "ch-14",
+      "titleZh": "和泰MaaS生態系的國際延伸",
+      "sections": [
+        {
+          "sectionId": "ch-14-s-01",
+          "titleZh": "yoxi與日本GO合作的策略意義",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-14-s-02",
+          "titleZh": "和運租車、機場接送與旅遊商城",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-14-s-03",
+          "titleZh": "HOTAI Points與跨境旅遊服務",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-14-s-04",
+          "titleZh": "商用車與MaaS資料閉環",
+          "paragraphCount": 2
+        }
+      ]
+    },
+    {
+      "chapterId": "ch-15",
+      "titleZh": "TAM、SAM、SOM市場測算",
+      "sections": [
+        {
+          "sectionId": "ch-15-s-01",
+          "titleZh": "銀髮移動市場",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-15-s-02",
+          "titleZh": "長照接送市場",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-15-s-03",
+          "titleZh": "觀光接駁市場",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-15-s-04",
+          "titleZh": "冷鏈與健康物流市場",
+          "paragraphCount": 2
+        }
+      ]
+    },
+    {
+      "chapterId": "ch-16",
+      "titleZh": "商業模式與收益池",
+      "sections": [
+        {
+          "sectionId": "ch-16-s-01",
+          "titleZh": "車輛銷售",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-16-s-02",
+          "titleZh": "車輛租賃",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-16-s-03",
+          "titleZh": "改裝與配備",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-16-s-04",
+          "titleZh": "保養維修",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-16-s-05",
+          "titleZh": "保險、金融與資料服務",
+          "paragraphCount": 2
+        }
+      ]
+    },
+    {
+      "chapterId": "ch-17",
+      "titleZh": "情境分析與敏感度分析",
+      "sections": [
+        {
+          "sectionId": "ch-17-s-01",
+          "titleZh": "保守情境",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-17-s-02",
+          "titleZh": "基準情境",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-17-s-03",
+          "titleZh": "成長情境",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-17-s-04",
+          "titleZh": "政策、油價、電動化與人力成本變數",
+          "paragraphCount": 2
+        }
+      ]
+    },
+    {
+      "chapterId": "ch-18",
+      "titleZh": "產品企劃策略",
+      "sections": [
+        {
+          "sectionId": "ch-18-s-01",
+          "titleZh": "銀髮照護車產品包",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-18-s-02",
+          "titleZh": "國際觀光接駁車產品包",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-18-s-03",
+          "titleZh": "農村旅遊與地方創生車產品包",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-18-s-04",
+          "titleZh": "AI智慧車隊服務包",
+          "paragraphCount": 2
+        }
+      ]
+    },
+    {
+      "chapterId": "ch-19",
+      "titleZh": "通路、品牌與服務策略",
+      "sections": [
+        {
+          "sectionId": "ch-19-s-01",
+          "titleZh": "B2B客戶分群",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-19-s-02",
+          "titleZh": "行業別解決方案銷售",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-19-s-03",
+          "titleZh": "試乘、展示與Demo場景",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-19-s-04",
+          "titleZh": "經銷商教育與產品故事化",
+          "paragraphCount": 2
+        }
+      ]
+    },
+    {
+      "chapterId": "ch-21",
+      "titleZh": "結論與全文總結",
+      "sections": [
+        {
+          "sectionId": "ch-21-s-01",
+          "titleZh": "研究發現",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-21-s-02",
+          "titleZh": "策略含義",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-21-s-03",
+          "titleZh": "對和泰商用車產品企劃職務的應用",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-21-s-04",
+          "titleZh": "後續研究方向",
+          "paragraphCount": 2
+        },
+        {
+          "sectionId": "ch-21-s-05",
+          "titleZh": "全文總結",
+          "paragraphCount": 2
+        }
+      ],
+      "displayNumber": 20
+    }
+  ]
+}

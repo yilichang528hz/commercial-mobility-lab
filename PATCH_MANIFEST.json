@@ -1,0 +1,43 @@
+{
+  "patchName": "preserve-reading-position-on-language-switch",
+  "removedEnglishNoticeOccurrences": 82,
+  "removedJapaneseNoticeOccurrences": 82,
+  "changedFiles": [
+    "chapters/ch-01.js",
+    "chapters/ch-02.js",
+    "chapters/ch-03.js",
+    "chapters/ch-04.js",
+    "chapters/ch-05.js",
+    "chapters/ch-06.js",
+    "chapters/ch-07.js",
+    "chapters/ch-08.js",
+    "chapters/ch-09.js",
+    "chapters/ch-10.js",
+    "chapters/ch-11.js",
+    "chapters/ch-12.js",
+    "chapters/ch-13.js",
+    "chapters/ch-14.js",
+    "chapters/ch-15.js",
+    "chapters/ch-16.js",
+    "chapters/ch-17.js",
+    "chapters/ch-18.js",
+    "chapters/ch-19.js",
+    "chapters/ch-21.js"
+  ],
+  "verification": {
+    "englishNoticeRemaining": false,
+    "japaneseNoticeRemaining": false,
+    "javascriptSyntaxCheck": "passed"
+  },
+  "updatedAt": "2026-06-08",
+  "changes": [
+    "Updated app.js language switching to capture and restore current chapter or section position.",
+    "Preserved opened accordion states across Chinese, English and Japanese language switches.",
+    "Kept the previous static-illustration-only website behavior and did not restore interactive modules."
+  ],
+  "modifiedFiles": [
+    "app.js",
+    "PATCH_MANIFEST.json",
+    "PATCH_MANIFEST.md"
+  ]
+}

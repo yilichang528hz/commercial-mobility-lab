@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>商用車未來移動企劃實驗室 | Commercial Mobility Futures Lab</title>
+  <meta name="description" content="GitHub Pages static interactive reading website for a commercial vehicle product planning proposal.">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body data-theme="A">
+  <a href="#main" class="skip-link">Skip to content</a>
+  <header class="site-header" id="top">
+    <div class="brand-block">
+      <div class="site-kicker" data-i18n="kicker">Interactive Proposal Reading Room</div>
+      <h1 id="site-title"></h1>
+      <p id="site-subtitle"></p>
+    </div>
+    <div class="header-actions">
+      <div id="copyright" class="copyright"></div>
+      <button class="mini-btn" data-lang-btn="zh">中文</button>
+      <button class="mini-btn" data-lang-btn="en">English</button>
+      <button class="mini-btn" data-lang-btn="ja">日本語</button>
+    </div>
+  </header>
+  <main id="main">
+    <section class="hero" aria-labelledby="hero-title">
+      <figure class="hero-figure"><img src="images/home-hero.jpg" alt="proposal hero illustration" loading="eager" decoding="async" data-lightbox="home-hero"></figure>
+      <div class="hero-copy">
+        <p class="eyebrow" id="hero-eyebrow"></p>
+        <h2 id="hero-title"></h2>
+        <p id="creation-motivation"></p>
+        <div class="hero-actions">
+          <button class="primary-btn" id="start-reading"></button>
+          <button class="secondary-btn" id="open-summary"></button>
+        </div>
+      </div>
+    </section>
+    <section class="notice-card" id="prototype-disclaimer"></section>
+    <section class="summary-panel" id="summary-panel">
+      <h2 data-i18n="executiveSummary">企劃摘要</h2>
+      <p id="executive-summary-text"></p>
+    </section>
+    <section class="chapter-grid-section">
+      <div class="section-heading"><h2 data-i18n="chapterNavigator">章節導覽</h2><p data-i18n="chapterNavigatorHint">點選章節後，系統會載入該章文字與靜態插圖。</p></div>
+      <div id="chapter-cards" class="chapter-grid"></div>
+    </section>
+    <section class="reading-room" id="reading-room">
+      <div class="section-heading"><h2 data-i18n="readingRoom">企劃書閱讀室</h2><p data-i18n="readingRoomHint">每章與每小節均可展開或收合。</p></div>
+      <div id="chapter-container" class="chapter-container"></div>
+    </section>
+    <section class="download-section" id="downloads">
+      <div class="download-card">
+        <img src="images/proposal-download-preview.jpg" alt="proposal download preview" loading="lazy" decoding="async" data-lightbox="download-preview">
+        <div><h2 data-i18n="downloads">下載區</h2><p data-i18n="downloadHint">下載原始企劃書 Word 檔與查看提示詞資產。</p><a class="primary-btn as-link" href="docs/hotai-commercial-vehicle-product-planning-integrated-cn.docx" download data-i18n="downloadProposal">下載企劃書</a></div>
+      </div>
+    </section>
+  </main>
+  <button id="floating-open" class="floating-open" aria-expanded="false">目錄</button>
+  <aside id="floating-drawer" class="floating-drawer" aria-hidden="true" aria-label="Table of contents">
+    <div class="drawer-head"><strong id="drawer-title">目錄</strong><button id="floating-close" class="mini-btn">×</button></div>
+    <div class="drawer-controls"><button class="mini-btn" data-lang-btn="zh">中文</button><button class="mini-btn" data-lang-btn="en">English</button><button class="mini-btn" data-lang-btn="ja">日本語</button></div>
+    <div class="drawer-controls"><button class="mini-btn" data-theme-btn="A">A</button><button class="mini-btn" data-theme-btn="B">B</button><button class="mini-btn" data-theme-btn="C">C</button><button class="mini-btn" data-theme-btn="D">D</button></div>
+    <nav id="floating-toc" class="floating-toc"></nav>
+  </aside>
+  <div id="drawer-backdrop" class="drawer-backdrop"></div>
+  <dialog id="glossary-modal" class="modal"><button class="modal-close" data-close-modal>×</button><div id="glossary-content"></div></dialog>
+  <dialog id="lightbox" class="lightbox"><button class="modal-close" data-close-lightbox>×</button><img id="lightbox-img" alt=""><p id="lightbox-caption"></p></dialog>
+  <noscript><p class="notice-card">本網站需要 JavaScript 才能載入章節內容。</p></noscript>
+  <script src="data/site-meta.js"></script>
+  <script src="data/toc.js"></script>
+  <script src="data/glossary.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
